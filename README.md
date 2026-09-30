@@ -14,6 +14,8 @@
 
 ---
 
+- 💬 UI → https://agentic-chatbot-latest-1.onrender.com
+
 ## 📌 Overview
 
 This project demonstrates a **production-style agentic chatbot** where an LLM doesn't just generate text — it can **decide to call tools**, observe the results, and loop back to produce a final, grounded answer. It ships with a full CI/CD pipeline: every push builds and tests the app, pushes a versioned Docker image to GitHub Container Registry, and deploys it live on Render.
